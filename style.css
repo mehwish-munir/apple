@@ -1,0 +1,258 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.table{
+     width: 100%;
+   height: 130px; 
+}
+.row1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.row1 span{
+    color: white;
+    
+}
+.row2{
+    background-color: blue;
+    text-align: center;
+    cursor: pointer;
+    color:white;
+
+}
+.row3{
+    background-color: rgb(248, 246, 246);
+    color:black;
+    text-align: center;
+}
+.row3 span{
+    color: blue;
+    cursor: pointer;
+    list-style: upper-alpha;
+    text-underline-position: below;
+}
+.main{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+}
+.main h1{
+    font-size: 4em;
+    font-weight:550 ;
+}
+.main h2{
+    font-size: 2em;
+    font-weight: lighter;
+}
+.main p{
+    color: grey;
+    cursor: pointer;
+    font-size: 15pt;
+    word-spacing: 10pt;
+}
+.buy{
+    text-align: center;
+font-size: 15pt;
+}
+.pic1{
+    position: absolute;
+    border: solid white;
+    width: 100%;
+}
+.pic1 img{
+    width: auto;
+    height: auto;
+    background-color: white;
+    align-items: center;
+    
+
+}
+.black{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 350px;
+}
+.black h2{
+    font-weight: lighter;
+}
+.black p{
+    color: grey;
+    cursor: pointer;
+    font-size: 15pt;
+    word-spacing: 10pt;
+}
+.buy2{
+    text-align: center;
+font-size: 15pt;
+width: 100%;
+position: absolute;
+background-color: black;
+margin-top: 550px;
+
+}
+.pic2{
+    position: absolute;
+    background-color:black;
+    
+    width: 100%;
+    margin-top: 550px;
+}
+.pic2 img{
+     /* width: 750px;
+    height: 650px;  */
+    background-color:black;
+    align-items: center;
+    margin-left: 50px;
+
+}
+.card{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+    margin-top: 1000px;
+    position: absolute;
+    
+}
+.card img{
+    margin-left: 500px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.cardprice{
+    margin-top: 1100px;
+    background-color: white;
+    position: absolute;
+ margin-left:450px ; 
+color: grey;
+cursor: pointer;
+font-size: 15pt;
+word-spacing: 10pt;
+text-align: center; 
+
+}
+.buy3{
+    text-align: center;
+font-size: 15pt;
+width: 100%;
+position: absolute;
+background-color:white;
+margin-top: 1175px;
+}
+.buy3 h3{
+    color: grey;
+cursor: pointer;
+font-size: 10pt;
+word-spacing: 10pt;
+text-align: center; 
+
+}
+.buy4{
+    margin-top: 1600px;
+    position: absolute;
+     margin-left: 200px; 
+    background-color: rgb(250, 246, 246);
+     ;
+}
+.buy4 h1{
+
+cursor: pointer;
+font-size: 30pt;
+word-spacing: 10pt;
+text-align: center;
+font-weight: 550;
+
+}
+.buy4a{
+    font-size: 20pt;
+}
+.buy4b{
+    font-size: 15pt;
+}
+.terms{
+    
+    background-color:rgb(231, 224, 224);
+    position: absolute;
+     margin-top: 3350px;
+   /* margin-left :200px; */
+    font-size: 10pt;
+    width: 100%;
+    height: 1300px;
+    
+}
+.terms h3{
+color: black;
+}
+.terms1{
+    margin-top: 50px;
+    margin-left: 180px;
+    color: gray;
+}
+.terms span{color: black;}
+
+.detail1{
+    margin-left: 200px;
+    position: absolute
+    ;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+
+}
+.detail2{
+    margin-left: 400px;
+    position: absolute
+    ;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+.detail3{
+    margin-left: 600px;
+    position: absolute
+    ;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+.detail4{
+    margin-left: 800px;
+    position: absolute
+    ;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+.detail5{
+    margin-left: 1000px;
+    position: absolute
+    ;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+.detail6{
+    margin-left: 350px;
+    position: absolute
+    ;
+    margin-top: 550px;
+    width: auto;
+    height: auto;
+    color: gray;
+}
+.detail6 span{
+    cursor: pointer;
+    color: gray;
+}
